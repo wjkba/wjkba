@@ -11,16 +11,16 @@
 
 ###
 
-- 🔭 I’m currently working on [frontend mentor challenges](https://wjkba.github.io/frontend-mentor/)
+- 🔭 I’m currently working on [Frontend Mentor Challenges](https://wjkba.github.io/frontend-mentor/)
 
-- 🌱 I’m currently learning **fastapi, react, mongodb**
+- 🌱 I’m currently learning **FastAPI, React, MongoDB**
 
 ###
 
 <h2 align="left">My projects:</h2>
 
 - [JavaScript Collection](https://github.com/wjkba/JavaScript-Collection)
-- [Frontend Mentor](https://wjkba.github.io/frontend-mentor/)
+- [Frontend Mentor Challenges](https://wjkba.github.io/frontend-mentor/)
 
 ###
 
@@ -35,9 +35,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
