@@ -19,8 +19,8 @@
 
 <h2 align="left">My projects:</h2>
 
-- 🟨 [JavaScript Collection](https://github.com/wjkba/JavaScript-Collection)
-- 🟣 [Frontend Mentor](https://wjkba.github.io/frontend-mentor/)
+- [JavaScript Collection](https://github.com/wjkba/JavaScript-Collection)
+- [Frontend Mentor](https://wjkba.github.io/frontend-mentor/)
 
 ###
 
