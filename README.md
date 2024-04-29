@@ -11,7 +11,7 @@
 
 ###
 
-- 🔭 I’m currently working on [Frontend Mentor Challenges](https://wjkba.github.io/frontend-mentor/)
+- 🔭 I’m currently working on a [FARM stack website](https://github.com/wjkba/szpinak)
 
 - 🌱 I’m currently learning **FastAPI, React, MongoDB**
 
@@ -19,8 +19,9 @@
 
 <h2 align="left">My projects:</h2>
 
-- [JavaScript Collection](https://github.com/wjkba/JavaScript-Collection)
+- [szpinak Recipe App](https://github.com/wjkba/szpinak)
 - [Frontend Mentor Challenges](https://wjkba.github.io/frontend-mentor/)
+- [JavaScript Collection](https://github.com/wjkba/JavaScript-Collection)
 
 ###
 
