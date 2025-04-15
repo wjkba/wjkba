@@ -1,6 +1,6 @@
 # Hi, I'm wjkba 👋
 
-- 🔭 Currently working on the [FKN AGH Science Club Website](https://fknagh.netlify.app/)  
+- 🔭 Currently working on the FKN AGH Science Club Website [fkn.agh.edu.pl](https://fkn.agh.edu.pl/)  
 - 🌱 Learning the latest **OpenAI API** to prepare for an upcoming hackathon
 
 ## Featured Projects
@@ -11,7 +11,7 @@
 - [CS50x Final Project – SolveScript](https://github.com/wjkba/solve-script)  
   JavaScript coding challenge app designed for learning and practicing algorithms, built with Next.js.
 
-- [FKN AGH Science Club Website](https://fknagh.netlify.app/)  
+- [FKN AGH Science Club Website](https://fkn.agh.edu.pl/)  
   A reviews blog built with AstroJS, optimized for fast performance and SEO, designed with best UX principles
 
 - [szpinak – Recipes Website](https://github.com/wjkba/szpinak)  
