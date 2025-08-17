@@ -23,6 +23,6 @@
 
 ## Study Notes
 
-- **Algorithms and Data Structures** [https://github.com/wjkba/algorithms-data-structures](https://github.com/wjkba/algorithms-data-structures)  
-- **SQL** [https://github.com/wjkba/sql](https://github.com/wjkba/sql)  
-- **JavaScript Collection** [https://github.com/wjkba/JavaScript-Collection](https://github.com/wjkba/JavaScript-Collection)
+- [Algorithms and Data Structures](https://github.com/wjkba/algorithms-data-structures)  
+- [SQL](https://github.com/wjkba/sql)  
+- [JavaScript Collection](https://github.com/wjkba/JavaScript-Collection)  
