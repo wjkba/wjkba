@@ -8,6 +8,9 @@
 - [Boox Highlight Manager](https://github.com/wjkba/onyx-boox-highlight-manager)  
   An app that manages and organizes highlights from eBooks stored locally in IndexedDB
 
+- [Prelude - Mobile App](https://github.com/wjkba/prelude)  
+  An AI‑assisted film companion built with Expo, search movies and get a spoiler‑free guide powered by OpenAI.
+
 - [CS50x Final Project – SolveScript](https://github.com/wjkba/solve-script)  
   JavaScript coding challenge app designed for learning and practicing algorithms, built with Next.js.
 
