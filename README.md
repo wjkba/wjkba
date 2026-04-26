@@ -1,6 +1,6 @@
 # Hi, I'm wjkba 👋
 
-- 🔭 Currently working on the **FKN AGH Science Club Website** [fkn.agh.edu.pl](https://fkn.agh.edu.pl/)  
+- 🔭 Currently working on the [logostworek.pl](https://logostworek.pl/)  
 - 🌱 Learning and experimenting with **React Native**
 
 ## Featured Projects
