@@ -1,6 +1,5 @@
 # Hi, I'm wjkba 👋
 
-- 🔭 Currently working on the [logostworek.pl](https://logostworek.pl/)  
 - 🌱 Learning and experimenting with **React Native**
 
 ## Featured Projects
