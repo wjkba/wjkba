@@ -24,7 +24,9 @@ I build local-first, self-hosted software: fast interfaces, few dependencies, SQ
 
 ## Toolbox
 
-[![Toolbox](https://skillicons.dev/icons?i=ts,elixir,linux,react,astro,nextjs,bun,htmx,tailwind,python,docker,go)](https://skillicons.dev)
+[![Toolbox](https://skillicons.dev/icons?i=ts,elixir,linux,neovim,react,astro,nextjs,bun,htmx,tailwind,postgres,vitest,python,docker,go)](https://skillicons.dev)
+
+Daily driver: Fedora · sway · Neovim · foot · fish · zellij
 
 ## Study Notes
 
