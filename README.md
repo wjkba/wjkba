@@ -5,7 +5,7 @@ Full-stack developer building local-first and self-hosted apps in **TypeScript**
 
 ## Featured Projects
 
-- [Boox Highlight Manager](https://github.com/wjkba/boox-highlight-manager) ⭐ 8 · [demo](https://booxmanager.netlify.app/)  
+- [Boox Highlight Manager](https://github.com/wjkba/boox-highlight-manager)  
   Local-first PWA for organizing and reviewing e-book highlights, stored in **IndexedDB**.
 
 - [Logostworek](https://logostworek.pl/)  
@@ -31,7 +31,7 @@ Full-stack developer building local-first and self-hosted apps in **TypeScript**
 
 ## Tech Stack
 
-**TypeScript** · **React** · **Next.js** · **Astro** · **TanStack Start** · **React Native** · **Node.js** · **Bun** · **Python** · **FastAPI** · **Go** · **Elixir** · **SQLite** · **Docker**
+[![Tech stack](https://skillicons.dev/icons?i=ts,react,nextjs,astro,tailwind,nodejs,bun,python,fastapi,go,elixir,sqlite,docker)](https://skillicons.dev)
 
 ## Study Notes
 
