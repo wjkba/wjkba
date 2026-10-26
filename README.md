@@ -1,37 +1,30 @@
-# Hi, I'm wjkba 👋
+# Hi, I'm wjkba
 
-Full-stack developer building local-first and self-hosted apps in **TypeScript** and **React**.
-- 🌱 Currently learning **Elixir**, **Phoenix LiveView** and **Ash**
+I build local-first, self-hosted software: fast interfaces, few dependencies, SQLite where it fits. Currently deep in **Elixir**, **Phoenix LiveView** and **Ash**.
 
 ## Featured Projects
 
 - [Boox Highlight Manager](https://github.com/wjkba/boox-highlight-manager)  
-  Local-first PWA for organizing and reviewing e-book highlights, stored in **IndexedDB**.
+  Local-first PWA for Onyx Boox and KOReader highlights, stored entirely in the browser with **IndexedDB**. No account, no server.
 
 - [Logostworek](https://logostworek.pl/)  
   Designed and built a store for a kids' speech therapy game, with a fully custom **Stripe** payment flow, transactional emails and limited drops with stock holds for concurrent buyers.
 
 - [Letterboxd Review Reader](https://github.com/wjkba/letterboxd-review-reader)  
-  Self-hosted e-ink reader for Letterboxd reviews, built with **TanStack Start**, **Drizzle** and **Docker**.
+  Self-hosted e-ink reader for Letterboxd reviews, with background scraping jobs, **TanStack Start** SSR and **SQLite** via **Drizzle**, served over **Tailscale**.
 
 - [rym-charts](https://github.com/wjkba/rym-charts)  
-  Self-hosted RateYourMusic chart tracker built with **Bun**, **Hono** and **HTMX**.
+  RateYourMusic chart tracker that skips scraping entirely. Server-rendered with **Bun**, **Hono** and **HTMX**, no build step.
 
-- [Lumina – AI Learning Companion](https://github.com/AI-LAB-AGH/OpenAI-Hackathon)  
-  Built for the **OpenAI Hackathon**, a multi-agent assistant that turns your notes into a living knowledge base.
-
-- [Prelude](https://github.com/wjkba/prelude)  
-  AI-assisted film companion built with **Expo** and **OpenAI**.
+- [Lumina](https://github.com/AI-LAB-AGH/OpenAI-Hackathon)  
+  **OpenAI Hackathon** project: an orchestrator agent routing to quiz, Q&A and summary agents over vector search of your notes.
 
 - [FKN AGH Science Club Website](https://fkn.agh.edu.pl/)  
   Designed and built a reviews blog with **Astro**, optimized for performance and SEO.
 
-- [SolveScript](https://github.com/wjkba/solve-script)  
-  CS50x final project, a JavaScript coding challenge app built with **Next.js**.
-
 ## Toolbox
 
-[![Toolbox](https://skillicons.dev/icons?i=ts,elixir,linux,react,astro,nextjs,bun,htmx,sqlite,tailwind,python,docker,go)](https://skillicons.dev)
+[![Toolbox](https://skillicons.dev/icons?i=ts,elixir,linux,react,astro,nextjs,bun,htmx,tailwind,python,docker,go)](https://skillicons.dev)
 
 ## Study Notes
 
