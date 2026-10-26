@@ -25,25 +25,8 @@ Currently deep in **Elixir**, **Phoenix LiveView** and **Ash**.
 
 ## Toolbox
 
-<p>
-  <img src="https://cdn.simpleicons.org/typescript/57606a/9198a1" alt="TypeScript" title="TypeScript" height="32" />&nbsp;
-  <img src="https://cdn.simpleicons.org/elixir/57606a/9198a1" alt="Elixir" title="Elixir" height="32" />&nbsp;
-  <img src="https://cdn.simpleicons.org/linux/57606a/9198a1" alt="Linux" title="Linux" height="32" />&nbsp;
-  <img src="https://cdn.simpleicons.org/neovim/57606a/9198a1" alt="Neovim" title="Neovim" height="32" />&nbsp;
-  <img src="https://cdn.simpleicons.org/react/57606a/9198a1" alt="React" title="React" height="32" />&nbsp;
-  <img src="https://cdn.simpleicons.org/tanstack/57606a/9198a1" alt="TanStack" title="TanStack" height="32" />&nbsp;
-  <img src="https://cdn.simpleicons.org/astro/57606a/9198a1" alt="Astro" title="Astro" height="32" />&nbsp;
-  <img src="https://cdn.simpleicons.org/nextdotjs/57606a/9198a1" alt="Next.js" title="Next.js" height="32" />&nbsp;
-  <img src="https://cdn.simpleicons.org/bun/57606a/9198a1" alt="Bun" title="Bun" height="32" />&nbsp;
-  <img src="https://cdn.simpleicons.org/tailwindcss/57606a/9198a1" alt="Tailwind CSS" title="Tailwind CSS" height="32" />&nbsp;
-  <img src="https://cdn.simpleicons.org/postgresql/57606a/9198a1" alt="PostgreSQL" title="PostgreSQL" height="32" />&nbsp;
-  <img src="https://cdn.simpleicons.org/vitest/57606a/9198a1" alt="Vitest" title="Vitest" height="32" />&nbsp;
-  <img src="https://cdn.simpleicons.org/python/57606a/9198a1" alt="Python" title="Python" height="32" />&nbsp;
-  <img src="https://cdn.simpleicons.org/docker/57606a/9198a1" alt="Docker" title="Docker" height="32" />&nbsp;
-  <img src="https://cdn.simpleicons.org/go/57606a/9198a1" alt="Go" title="Go" height="32" />
-</p>
-
-Daily driver: Fedora · sway · Neovim · foot · fish · zellij
+**Stack:** `TypeScript` `React` `TanStack Start` `Astro` `Elixir/Phoenix` `PostgreSQL` `SQLite`  
+**Daily driver:** `Fedora` `sway` `Neovim` `foot` `fish` `zellij`
 
 ## Study Notes
 
