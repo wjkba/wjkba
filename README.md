@@ -29,9 +29,9 @@ Full-stack developer building local-first and self-hosted apps in **TypeScript**
 - [SolveScript](https://github.com/wjkba/solve-script)  
   CS50x final project, a JavaScript coding challenge app built with **Next.js**.
 
-## Tech Stack
+## Toolbox
 
-[![Tech stack](https://skillicons.dev/icons?i=ts,react,nextjs,astro,tailwind,nodejs,bun,python,fastapi,go,elixir,sqlite,docker)](https://skillicons.dev)
+[![Toolbox](https://skillicons.dev/icons?i=ts,elixir,linux,react,astro,nextjs,bun,htmx,sqlite,tailwind,python,docker,go)](https://skillicons.dev)
 
 ## Study Notes
 
