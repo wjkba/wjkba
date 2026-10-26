@@ -25,7 +25,7 @@ Currently deep in **Elixir**, **Phoenix LiveView** and **Ash**.
 
 ## Toolbox
 
-[![Toolbox](https://skillicons.dev/icons?i=ts,elixir,linux,neovim,react,astro,nextjs,bun,htmx,tailwind,postgres,vitest,python,docker,go)](https://skillicons.dev)
+[![Toolbox](https://skills.syvixor.com/api/icons?i=ts,elixir,linux,neovim,react,tanstack,astro,nextjs,bun,tailwind,postgresql,vitest,python,docker,go)](https://github.com/syvixor/skills-icons)
 
 Daily driver: Fedora · sway · Neovim · foot · fish · zellij
 
