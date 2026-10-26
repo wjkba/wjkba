@@ -1,6 +1,7 @@
 # Hi, I'm wjkba
 
-I build local-first, self-hosted software: fast interfaces, few dependencies, SQLite where it fits. Currently deep in **Elixir**, **Phoenix LiveView** and **Ash**.
+I build local-first, self-hosted software: fast interfaces, few dependencies, SQLite where it fits. 
+Currently deep in **Elixir**, **Phoenix LiveView** and **Ash**.
 
 ## Featured Projects
 
